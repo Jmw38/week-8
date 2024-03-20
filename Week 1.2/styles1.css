@@ -1,0 +1,31 @@
+body {
+    background-color: yellowgreen;
+}
+
+H2 {
+    color:blue;
+    text-align: center;
+}
+
+p {
+    color: green;
+}
+ol {
+    color:red;
+}
+div {
+    background-color: blue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+}
+#id photo {
+    font-size: 5px;
+}
+
+h3 {
+Color: red; font-size: 20px;
+text-align: center;
+}
+
+
